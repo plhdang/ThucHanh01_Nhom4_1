@@ -63,4 +63,5 @@ Thông qua bài thực hành, sinh viên có thể:
 - Trình bày quan điểm sử dụng AI minh bạch, đúng mục đích
 
 ---
-
+## ✅ KẾT LUẬN
+Bài thực hành giúp sinh viên rèn luyện kỹ năng sử dụng AI trong học tập, nâng cao hiểu biết về máy tính và ý thức đạo đức số khi sử dụng công nghệ.
