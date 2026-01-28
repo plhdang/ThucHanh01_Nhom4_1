@@ -64,6 +64,3 @@ Thông qua bài thực hành, sinh viên có thể:
 
 ---
 
-## ✅ Kết luận
-
-Bài thực hành giúp sinh viên rèn luyện kỹ năng sử dụng công nghệ AI trong học tập, đồng thời nâng cao ý thức đạo đức số và khả năng làm việc với hệ thống máy tính.
